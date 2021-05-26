@@ -35,4 +35,5 @@ The Physionet’s <a href="https://archive.physionet.org/mimic2/" target="_blank
 * Associated Tasks: Blood pressure regression
 * Sampling Frequency: 125Hz
 * Precision: 8 bits
+* Citation Request: If you use this dataset, please refer [this paper](https://www.semanticscholar.org/paper/Cuff-less-high-accuracy-calibration-free-blood-time-Kachuee-Kiani/756f12f5495be3717a691a6073642733f6b1a8a3)
 
