@@ -33,13 +33,6 @@ The Physionet’s <a href="https://archive.physionet.org/mimic2/" target="_blank
   - ECG signal, FS=125Hz; electrocardiogram from channel II
 * Number of Patients: 12000
 * Associated Tasks: Blood pressure regression
-* Dark/Light mode
-* Toolbar for basic Markdown formatting
-* Supports multiple cursors
-* Save the Markdown preview as PDF
-* Emoji support in preview :tada:
-* App will keep alive in tray for quick usage
-* Full screen mode
-  - Write distraction free.
-* Cross platform
-  - Windows, macOS and Linux ready.
+* Sampling Frequency: 125Hz
+* Precision: 8 bits
+
