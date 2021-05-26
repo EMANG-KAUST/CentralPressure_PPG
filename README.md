@@ -2,13 +2,10 @@
 <h1 align="center">A continuous blood pressure estimation algorithm built on <a href="https://link.springer.com/article/10.1007/s00498-012-0091-1" target="_blank">SCSA</a>.</h1>
 
 <p align="center">
-  <a href="https://www.paypal.me/AmitMerchant">
+  <a href="https://ieeexplore.ieee.org/document/9374974">
     <img src="https://img.shields.io/badge/paper-IEEE%20Access-brightgreen">
-  </a>  <a href="https://www.paypal.me/AmitMerchant">
-    <img src="https://img.shields.io/badge/paper-IEEE%20Access-brightgreen">
-  </a>
-  <a href="https://www.paypal.me/AmitMerchant">
-    <img src="https://img.shields.io/badge/paper-IEEE%20Access-brightgreen">
+  </a>  <a href="https://ieeexplore.ieee.org/document/9176849">
+    <img src="https://img.shields.io/badge/paper-EMBC2020-orange">
   </a>
 </p>
 
