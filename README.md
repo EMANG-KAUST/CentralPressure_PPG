@@ -27,8 +27,10 @@
 The data set is in matlab's v7.3 mat file, accordingly it should be opened using new versions of matlab or HDF libraries in other environments.(Please refer to the Web for more information about this format) 
  
 
-* Sync Scrolling
-  - While you type, LivePreview will automatically scroll to the current location you're editing.
+* This database consist of a cell array of matrices, each cell is one record part. In each matrix each row corresponds to one signal channel:
+  - PPG signal, FS=125Hz; photoplethysmograph from fingertip 
+  - ABP signal, FS=125Hz; invasive arterial blood pressure (mmHg) 
+  - ECG signal, FS=125Hz; electrocardiogram from channel II
 * GitHub Flavored Markdown  
 * Syntax highlighting
 * [KaTeX](https://khan.github.io/KaTeX/) Support
