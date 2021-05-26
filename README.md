@@ -7,6 +7,9 @@
   </a>  <a href="https://ieeexplore.ieee.org/document/9176849">
     <img src="https://img.shields.io/badge/paper-EMBC2020-orange">
   </a>
+  </a>  <a href="https://ieeexplore.ieee.org/document/9176849">
+    <img src="https://img.shields.io/badge/coverage-100%25-blue">
+  </a>
 </p>
 
 <p align="center">
