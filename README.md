@@ -14,8 +14,8 @@
 
 <p align="center">
   <a href="#Dataset">Dataset</a> •
-  <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
+  <a href="#how-to-use">How To Use</a> •
   <a href="#credits">Credits</a> •
   <a href="#related">Related</a> •
   <a href="#license">License</a>
@@ -37,3 +37,6 @@ The Physionet’s <a href="https://archive.physionet.org/mimic2/" target="_blank
 * Precision: 8 bits
 * Citation Request: If you use this dataset, please refer [this paper](https://www.semanticscholar.org/paper/Cuff-less-high-accuracy-calibration-free-blood-time-Kachuee-Kiani/756f12f5495be3717a691a6073642733f6b1a8a3)
 
+## Download
+
+You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest installable version of Markdownify for Windows, macOS and Linux.
