@@ -1,5 +1,5 @@
 
-<h4 align="center">A continuous blood pressure estimation algorithm built on <a href="https://link.springer.com/article/10.1007/s00498-012-0091-1" target="_blank">SCSA</a>.</h4>
+<h2 align="center">A continuous blood pressure estimation algorithm built on <a href="https://link.springer.com/article/10.1007/s00498-012-0091-1" target="_blank">SCSA</a>.</h2>
 
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
