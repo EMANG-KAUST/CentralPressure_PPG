@@ -31,8 +31,8 @@ The Physionet’s <a href="https://archive.physionet.org/mimic2/" target="_blank
   - PPG signal, FS=125Hz; photoplethysmograph from fingertip 
   - ABP signal, FS=125Hz; invasive arterial blood pressure (mmHg) 
   - ECG signal, FS=125Hz; electrocardiogram from channel II
-* Syntax highlighting
-* [KaTeX](https://khan.github.io/KaTeX/) Support
+* Number of Patients: 12000
+* Associated Tasks: Blood pressure regression
 * Dark/Light mode
 * Toolbar for basic Markdown formatting
 * Supports multiple cursors
