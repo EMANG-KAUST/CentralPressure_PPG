@@ -48,18 +48,8 @@ You can [download](https://github.com/amitmerchant1990/electron-markdownify/rele
 The application provides interfaces which can help researchers to extract feature vectors using SCSA method, including feature extraction in PPG signals only or in PPG & EEG signals as a whole.
 
 ### Extract SCSA feature set with PPG signals only
-```bash
-# Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
-
-# Go into the repository
-$ cd electron-markdownify
-
-# Install dependencies
-$ npm install
-
-# Run the app
-$ npm start
+```matlab
+[featureV] = SegmentExtract(PPGSegment)
 ```
 
 Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
