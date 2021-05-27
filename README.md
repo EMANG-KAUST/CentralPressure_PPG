@@ -45,15 +45,12 @@ You can [download](https://github.com/amitmerchant1990/electron-markdownify/rele
 
 ## How to Run
 
-The application provides interfaces which can help researchers to extract feature vectors using SCSA method, including feature extraction in PPG signals only or in PPG & ECG signals as a whole. Network training and prediction interfaces are also provided.
+The application provides interfaces which can help researchers to extract feature vectors using SCSA method. Network training and prediction interfaces are also provided.
 
 ### Extract SCSA feature set 
 You can extract a SCSA feature vector from a certain PPG segment (i.e. a heart beat interval) with the following command.
 ```matlab
 [featureS] = SegmentExtract(PPGSegment)
 ```
-You can extract a PAT feature vector from a certain ECG segment (i.e. a heart beat interval) with the following command.
-```matlab
-[featureV] = PATSegmentExtract(EEGSegment)
-```
+
 Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
