@@ -18,7 +18,8 @@
   <a href="#related">Related</a> •
   <a href="#license">License</a>
 </p>
-![diag](https://github.com/EMANG-KAUST/CentralPressure_PPG/blob/main/img/51.png)
+
+![screenshot](https://github.com/EMANG-KAUST/CentralPressure_PPG/blob/main/img/51.png)
 ![screenshot](https://github.com/EMANG-KAUST/CentralPressure_PPG/blob/main/img/myVideoFile.gif)
 
 ## Dataset
