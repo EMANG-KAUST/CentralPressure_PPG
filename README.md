@@ -45,9 +45,9 @@ You can [download](https://github.com/amitmerchant1990/electron-markdownify/rele
 
 ## How to Run
 
-The application provides interfaces and demos that can help researchers to extract feature vectors using SCSA method.
+The application provides interfaces which can help researchers to extract feature vectors using SCSA method, including feature extraction in PPG signals only or in PPG & EEG signals as a whole.
 
-### Extract SCSA feature set
+### Extract SCSA feature set with PPG signals only
 ```bash
 # Clone this repository
 $ git clone https://github.com/amitmerchant1990/electron-markdownify
