@@ -50,7 +50,7 @@ The application provides interfaces which can help researchers to extract featur
 ### Extract SCSA feature set 
 You can extract a SCSA feature vector from a certain PPG segment (i.e. a heart beat interval) with the following command.
 ```matlab
-[featureV] = SegmentExtract(PPGSegment)
+[featureS] = SegmentExtract(PPGSegment)
 ```
 You can extract a PAT feature vector from a certain ECG segment (i.e. a heart beat interval) with the following command.
 ```matlab
