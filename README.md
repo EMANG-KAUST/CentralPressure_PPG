@@ -21,7 +21,7 @@
 
 Algorithm diagram            |  Real-time implementation
 :-------------------------:|:-------------------------:
-![1](https://github.com/EMANG-KAUST/CentralPressure_PPG/blob/main/img/51.png)  |  ![2](https://github.com/EMANG-KAUST/CentralPressure_PPG/blob/main/img/myVideoFile.gif)
+![1](https://github.com/EMANG-KAUST/CentralPressure_PPG/blob/main/img/51.png)  |  ![2](https://github.com/EMANG-KAUST/CentralPressure_PPG/blob/main/img/1.gif)
 
 
 ## Dataset
