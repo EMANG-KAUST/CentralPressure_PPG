@@ -45,8 +45,9 @@ You can [download](https://github.com/amitmerchant1990/electron-markdownify/rele
 
 ## How to Run
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+The application provides interfaces and demos that can help researchers to extract feature vectors using SCSA method.
 
+### Extract SCSA feature set
 ```bash
 # Clone this repository
 $ git clone https://github.com/amitmerchant1990/electron-markdownify
