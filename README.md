@@ -13,7 +13,7 @@
 <p align="center">
   <a href="#Dataset">Dataset</a> •
   <a href="#download">Download</a> •
-  <a href="#">Extract PPG features</a> •
+  <a href="#Extract PPG features">Extract PPG features</a> •
   <a href="#credits">Credits</a> •
   <a href="#related">Related</a> •
   <a href="#license">License</a>
