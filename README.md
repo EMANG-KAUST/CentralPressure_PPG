@@ -45,9 +45,9 @@ You can [download](https://github.com/amitmerchant1990/electron-markdownify/rele
 
 ## How to Run
 
-The application provides interfaces which can help researchers to extract feature vectors using SCSA method, including feature extraction in PPG signals only or in PPG & EEG signals as a whole.
+The application provides interfaces which can help researchers to extract feature vectors using SCSA method, including feature extraction in PPG signals only or in PPG & EEG signals as a whole. Network training and predictio interfaces are also provided.
 
-### Extract SCSA feature set with PPG signals only
+### Extract SCSA feature set 
 You can extract a feature vector from a certain PPG segment (i.e. a heart beat interval) with the following command.
 ```matlab
 [featureV] = SegmentExtract(PPGSegment)
