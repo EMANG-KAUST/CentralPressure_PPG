@@ -12,9 +12,9 @@
 
 <p align="center">
   <a href="#Dataset">Dataset</a> •
+  <a href="#environment">Environment</a> •
   <a href="#download">Download</a> •
   <a href="#how-to-run">How To Run</a>  •
-  <a href="#environment">Environment</a> •
   <a href="#license">License</a>
 </p>
 
@@ -37,6 +37,13 @@ The Physionet’s <a href="https://archive.physionet.org/mimic2/" target="_blank
 * Precision: 8 bits
 * Citation Source: If you use this dataset, please refer [this paper](https://www.semanticscholar.org/paper/Cuff-less-high-accuracy-calibration-free-blood-time-Kachuee-Kiani/756f12f5495be3717a691a6073642733f6b1a8a3)
 
+## Environment
+
+The original source is developed in Matlab 2016a. An equaling or higher version is recommended. This application uses the following Matlab toolbox:
+
+- [Signal Processing Toolbox](https://www.mathworks.com/products/signal.html)
+- [Deep Learning Toolbox](https://www.mathworks.com/products/deep-learning.html)
+- 
 ## Download
 
 You can download this application directly by built-in [git](https://www.mathworks.com/help/matlab/matlab_prog/set-up-git-source-control.html) in Matlab.
@@ -67,13 +74,6 @@ and
 ```matlab
 [DBPestimate] = netD(featureS)
 ```
-
-### Environment
-
-The original source is developed in Matlab 2016a. An equaling or higher version is recommended. This application uses the following Matlab toolbox:
-
-- [Signal Processing Toolbox](https://www.mathworks.com/products/signal.html)
-- [Deep Learning Toolbox](https://www.mathworks.com/products/deep-learning.html)
 
 ### License
 
