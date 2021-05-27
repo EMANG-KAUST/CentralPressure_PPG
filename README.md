@@ -60,6 +60,13 @@ Once feature sets are generated, with `size(Traindata)=length(featureVector),num
 [netS,netD] = ModelGen(Traindata,SBPTarget,DBPTarget)
 ```
 ### Predict BP with trained network
-
+With `netS` and `netD`, one can predict SBP and DBP by:
+```matlab
+[SBPestimate] = netS(featureS)
+```
+and
+```matlab
+[DBPestimate] = netD(featureS)
+```
 
 Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
