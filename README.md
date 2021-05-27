@@ -46,7 +46,7 @@ The original source is developed in Matlab 2016a. An equaling or higher version 
 ## Download
 
 You can download this application directly by built-in [git](https://www.mathworks.com/help/matlab/matlab_prog/set-up-git-source-control.html) in Matlab.
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![screenshot](https://github.com/EMANG-KAUST/CentralPressure_PPG/blob/main/img/2.gif)
 
 ## How to Run
 
