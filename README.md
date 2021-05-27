@@ -18,10 +18,10 @@
   <a href="#related">Related</a> •
   <a href="#license">License</a>
 </p>
-
+<p align="center">
 ![screenshot](https://github.com/EMANG-KAUST/CentralPressure_PPG/blob/main/img/51.png)
 ![screenshot](https://github.com/EMANG-KAUST/CentralPressure_PPG/blob/main/img/myVideoFile.gif)
-
+</p>
 ## Dataset
 The Physionet’s <a href="https://archive.physionet.org/mimic2/" target="_blank">Multiparameter Intelligent Monitoring in Intensive Care (MIMIC II)</a> online waveform database is used for accuracy analysis.
  
