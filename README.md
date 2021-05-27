@@ -43,7 +43,6 @@ The original source is developed in Matlab 2016a. An equaling or higher version 
 
 - [Signal Processing Toolbox](https://www.mathworks.com/products/signal.html)
 - [Deep Learning Toolbox](https://www.mathworks.com/products/deep-learning.html)
-- 
 ## Download
 
 You can download this application directly by built-in [git](https://www.mathworks.com/help/matlab/matlab_prog/set-up-git-source-control.html) in Matlab.
