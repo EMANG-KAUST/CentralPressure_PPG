@@ -39,7 +39,7 @@ The Physionet’s <a href="https://archive.physionet.org/mimic2/" target="_blank
 
 ## Download
 
-You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest installable version of Markdownify for Windows, macOS and Linux.
+You can download this application directly by built-in [git](https://www.mathworks.com/help/matlab/matlab_prog/set-up-git-source-control.html) in Matlab.
 ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
 
 ## How to Run
