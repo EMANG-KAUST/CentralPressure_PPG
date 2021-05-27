@@ -1,5 +1,5 @@
 
-<h1 align="center">A cuffless blood pressure estimation algorithm built on <a href="https://link.springer.com/article/10.1007/s00498-012-0091-1" target="_blank">SCSA</a>.</h1>
+<h1 align="center">Cuffless blood pressure estimation algorithm built on <a href="https://link.springer.com/article/10.1007/s00498-012-0091-1" target="_blank">SCSA</a>.</h1>
 
 <p align="center">
   <a href="https://ieeexplore.ieee.org/document/9374974">
