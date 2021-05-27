@@ -70,9 +70,9 @@ and
 ```
 
 ## Demo
-There is a quick start guide in demo.m which involves signal generation and C-SCSA denoising at different noise levels (small noise, median noise, high noise). In the command window, simply run:
+There is a quick start guide in demo.m which involves SCSA feature generation and peformance analysis by [AAMI](https://www.aami.org/standards) standard. In the command window, simply run:
 ```matlab
 demo
 ```
-The demo will plot the C-SCSA denoising figure:
-Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
+The demo will output the following performance analysis table:
+
