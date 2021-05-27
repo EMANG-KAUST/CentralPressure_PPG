@@ -14,8 +14,7 @@
   <a href="#Dataset">Dataset</a> •
   <a href="#download">Download</a> •
   <a href="#how-to-run">How To Run</a>  •
-  <a href="#demo">Demo</a> •
-  <a href="#related">Related</a> •
+  <a href="#environment">Environment</a> •
   <a href="#license">License</a>
 </p>
 
@@ -69,10 +68,15 @@ and
 [DBPestimate] = netD(featureS)
 ```
 
-## Demo
-There is a quick start guide in demo.m which involves SCSA feature generation and peformance analysis by [AAMI](https://www.aami.org/standards) standard. In the command window, simply run:
-```matlab
-demo
-```
-The demo will output the following performance analysis table:
+### Environment
 
+The original source is developed in Matlab 2016a. An equaling or higher version is recommended. This application uses the following Matlab toolbox:
+
+- [Signal Processing Toolbox](https://www.mathworks.com/products/signal.html)
+- [Deep Learning Toolbox](https://www.mathworks.com/products/deep-learning.html)
+
+### License
+
+The application library (i.e. all code inside of the `functions` directory) is licensed under the
+[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html), also
+included in our repository in the `COPYING` file.
