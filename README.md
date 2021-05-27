@@ -53,6 +53,8 @@ You can extract a SCSA feature vector from a certain PPG segment (i.e. a heart b
 [featureS] = SegmentExtract(PPGSegment)
 ```
 ### Train feed-forward neural network (FFNN)
+The application utilizes a FFNN structure for SBP and DBP estimation.
+![screenshot2](https://github.com/EMANG-KAUST/CentralPressure_PPG/blob/main/img/ffnn1.png)
 Once feature sets are generated, you can train the neural network with the following command.
 ```matlab
 [netS,netD] = ModelGen(Traindata,SBPTarget,DBPTarget)
