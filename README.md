@@ -14,7 +14,7 @@
   <a href="#Dataset">Dataset</a> •
   <a href="#environment">Environment</a> •
   <a href="#download">Download</a> •
-  <a href="#how-to-run">How To Run</a>  •
+  <a href="#how-to-run">How to Run</a>  •
   <a href="#license">License</a>
 </p>
 
