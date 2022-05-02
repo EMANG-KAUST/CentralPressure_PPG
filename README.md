@@ -88,7 +88,7 @@ which yields the following figures:
 
 Matlab FFNN training        |  Continuous BP predictions
 :-------------------------:|:-------------------------:
-![1](https://github.com/EMANG-KAUST/CentralPressure_PPG/blob/main/img/51.png)  |  ![2](https://github.com/EMANG-KAUST/CentralPressure_PPG/blob/main/img/1.gif)
+![1](https://github.com/EMANG-KAUST/CentralPressure_PPG/blob/main/img/NNViz.png)  |  ![2](https://github.com/EMANG-KAUST/CentralPressure_PPG/blob/main/img/BPViz.png)
 ### License
 
 The application library (i.e. all code inside of the `functions` directory) is licensed under the
