@@ -73,7 +73,22 @@ and
 ```matlab
 [DBPestimate] = netD(featureS)
 ```
+### Running a demo
+You can try our algorithm with this [online dataset](https://archive.ics.uci.edu/ml/datasets/Cuff-Less+Blood+Pressure+Estimation). After downloading, visualize the BP predictions with the following command:
+```matlab
+[SBP,SBPT,DBP,DBPT] = BPDemo(filename,patientIndex,RatioT)
+```
+`SBP` denotes the predicted SBP and `SBPT` denotes the true SBP, vice versa for `DBP` and `DBPT`. `RatioT` is the amount of data used for testing, for example if you want to use 50% for training and the rest 50% for prediction and visualization, `RatioT` is 50 in this case. 
 
+For example, you can visualize predictions for the second patient in the database with the following command:
+```matlab
+[SBP,SBPT,DBP,DBPT] = BPDemo('Part_1.mat',15,50)
+```
+which yields the following figures:
+
+Matlab FFNN training        |  Continuous BP predictions
+:-------------------------:|:-------------------------:
+![1](https://github.com/EMANG-KAUST/CentralPressure_PPG/blob/main/img/51.png)  |  ![2](https://github.com/EMANG-KAUST/CentralPressure_PPG/blob/main/img/1.gif)
 ### License
 
 The application library (i.e. all code inside of the `functions` directory) is licensed under the
